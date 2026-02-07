@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Universe",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2026-02-07T11:55:04.168001Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Universe",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/01_My_Universe_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Murder of the Universe",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Murder_of_the_Universe_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Murder of the Universe",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Murder_of_the_Universe_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Murder Of The Universe - Live in Utrecht ’19",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/04_Murder_Of_The_Universe_-_Live_in_Utrecht_’19_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Murder of the Universe (Live in Utrecht '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/05_Murder_of_the_Universe_(Live_in_Utrecht_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Across the Universe",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/06_Across_the_Universe_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Across The Universe (2007 Remastered)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/07_Across_The_Universe_(2007_Remastered)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Universe At War",
+      "artist": "The Roots feat. Common",
+      "has_synced": false,
+      "path": "select/08_Universe_At_War_The_Roots_feat._Common.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "UNIverse At War",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/09_UNIverse_At_War_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Find Me the Pulse of the Universe",
+      "artist": "Lætitia Sadier",
+      "has_synced": true,
+      "path": "select/10_Find_Me_the_Pulse_of_the_Universe_Lætitia_Sadier.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dark Center Of The Universe",
+      "artist": "Modest Mouse",
+      "has_synced": false,
+      "path": "select/11_Dark_Center_Of_The_Universe_Modest_Mouse.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dark Center Of The Universe",
+      "artist": "Modest Mouse",
+      "has_synced": true,
+      "path": "select/12_Dark_Center_Of_The_Universe_Modest_Mouse.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "III. Universe",
+      "artist": "The Microphones",
+      "has_synced": true,
+      "path": "select/13_III._Universe_The_Microphones.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "V. Universe",
+      "artist": "The Microphones",
+      "has_synced": false,
+      "path": "select/14_V._Universe_The_Microphones.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Into This Universe",
+      "artist": "Opus III",
+      "has_synced": true,
+      "path": "select/15_Into_This_Universe_Opus_III.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Master of the Universe",
+      "artist": "Hawkwind",
+      "has_synced": false,
+      "path": "select/16_Master_of_the_Universe_Hawkwind.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Universe",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_Universe_Official髭男dism.txt"
+    }
+  ]
+}
